@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ### 📝 Basic
 
-#### * Algorithm
+#### * [Algorithm](https://github.com/seongaeee/Algo-Study)
 > 06.10 - 07.31
 - [x] DFS/BFS
 - [ ] Dijkstra/Floyd-Warshall
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 - [ ] Binary Search/Heap
 - [ ] DP/Backtracking
 
-#### * CS
+#### * [CS](https://github.com/seongaeee/CS-Study)
 > 06.01 - 07.31
 - [ ] Computer Architecture
 - [ ] Data Structure
