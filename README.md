@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ##### [생활코딩 - React](https://www.inflearn.com/course/react-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/dashboard)
 > 06.18 - 06.22
 - [x] 개발 환경
-- [ ] 컴포넌트 제작
+- [x] 컴포넌트 제작
 - [ ] 이벤트
 - [ ] Create 기능 구현
 - [ ] Update & Delete 기능 구현
