@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ##### [JavaScript & TypeScript Essential](https://fastcampus.co.kr/dev_academy_kmt1)
 > 06.14 - 7.10
 - [x] Javascript, Typescript
-- [ ] Javascript Starter Kit
+- [x] Javascript Starter Kit
 - [ ] Typescript Start Kit
 - [ ] 회원가입, 로그인, 차트 라이브러리
   
