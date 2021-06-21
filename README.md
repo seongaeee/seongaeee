@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 - [ ] Typescript Start Kit
 - [ ] 회원가입, 로그인, 차트 라이브러리
   
+##### 모던 자바스크립트 Deep dive
+> 계획 세우는중
+
 #### * React
 
 ##### [생활코딩 - React](https://www.inflearn.com/course/react-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/dashboard)
@@ -52,11 +55,6 @@ Here are some ideas to get you started:
 <br>
 
 ### 📝 Back-End
-
-#### * Nodejs 
-> 계획 세우는중
-
-##### [[nodejs 강좌] Node.js 를 이용해 웹애플리케이션 만들기](https://www.inflearn.com/course/nodejs-%EA%B0%95%EC%A2%8C-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9#curriculum)
 
 #### * Spring
 > 계획 세우는중
