@@ -74,4 +74,4 @@ Here are some ideas to get you started:
 
 #### * [CS](https://github.com/seongaeee/CS-Study)
 > 06.01 - 07.31
-- 무슨 내용이든 좋으니 1일 1커밋하자!
+- [ ] 무슨 내용이든 좋으니 1일 1커밋하자!
