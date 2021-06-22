@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 > 06.18 - 06.22
 - [x] 개발 환경
 - [x] 컴포넌트 제작
-- [ ] 이벤트
+- [x] 이벤트
 - [ ] Create 기능 구현
 - [ ] Update & Delete 기능 구현
 
@@ -75,3 +75,6 @@ Here are some ideas to get you started:
 #### * [CS](https://github.com/seongaeee/CS-Study)
 > 06.01 - 07.31
 - [ ] 무슨 내용이든 좋으니 1일 1커밋하자!
+
+#### * Git
+> 06.01 - 07.31
