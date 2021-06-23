@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - [ ] Typescript Start Kit
 - [ ] 회원가입, 로그인, 차트 라이브러리
   
-##### 모던 자바스크립트 Deep dive
+##### [모던 자바스크립트 Deep dive](https://github.com/wikibook/mjs)
 > 계획 세우는중
 
 #### * React
