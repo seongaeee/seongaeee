@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 - [ ] 회원가입, 로그인, 차트 라이브러리
   
 ##### [모던 자바스크립트 Deep dive](https://github.com/wikibook/mjs)
-> 계획 세우는중
+> 06.24 - 7.31
+- [x] 프로그래밍
+- [x] 자바스크립트란?
+- [x] 자바스크립트 개발환경과 실행방법
+- [x] 변수
 
 #### * React
 
