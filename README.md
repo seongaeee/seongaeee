@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 #### * [Algorithm](https://github.com/seongaeee/Algo-Study)
 > 06.10 - 07.31
 - [x] DFS/BFS
-- [ ] Dijkstra/Floyd-Warshall
+- [x] Dijkstra/Floyd-Warshall
 - [ ] Sliding Window/Two Point
 - [ ] Prim/Kruskal
 - [ ] Binary Search/Heap
