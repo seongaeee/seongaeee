@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - [x] 자바스크립트 개발환경과 실행방법
 - [x] 변수
 - [x] 표현식과 문
+- [x] 연산자 
 
 #### * React
 
