@@ -46,7 +46,14 @@ Here are some ideas to get you started:
 - [x] 자바스크립트 개발환경과 실행방법
 - [x] 변수
 - [x] 표현식과 문
-- [x] 데이터타입 
+- [x] 데이터타입
+- [x] 연산자
+- [x] 제어문
+- [x] 타입 변환과 단축 평가
+- [x] 객체 리터럴
+- [x] 원시 값과 객체의 비교
+- [x] 함수
+- [x] 스코프
 
 #### * React
 
@@ -62,8 +69,9 @@ Here are some ideas to get you started:
 
 ### 📝 Back-End
 
-#### * Spring
-> 계획 세우는중
+#### * [Spring](https://www.inflearn.com/course/spring-framework_core#curriculum)
+> 06.28-7.31
+
 
 <br>
 
